@@ -108,6 +108,13 @@
             </ul>
         </div>
     </nav>
+    <div class="flex bg-fixed bg-center lg:h-screen bg-opacity-100 h-96 bg-no-repeat max-w-full bg-cover bg-transparent"
+     style="background-image:url(https://ml44p8frztli.i.optimole.com/w:auto/h:auto/q:mauto/f:avif/http://himasi.unja.ac.id/wp-content/uploads/2023/03/DSC01837-scaled.jpg); background-color:rgba(0, 0, 0, 0.37); linear-gradient(to right, #6DB3F2, #6DB3F2); background-blend-mode: darken">
+        <div class="flex flex-col justify-center ">
+            <h1 class="text-white text-6xl">HIMASI</h1>
+            <h3 class="text-slate-100 text-2xl">"Fakultas Sains dan Teknologi Universitas Jambi"</h3>
+        </div>
+    </div>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
         const dropdownButton = document.querySelectorAll('.relative');
